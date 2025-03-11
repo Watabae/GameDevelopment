@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PongPaddle_0: -1237153888036594456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

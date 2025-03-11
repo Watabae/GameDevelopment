@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fb894e46439fda4586405da2e1a6320
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - layout: {instanceID: 0}
+  - arcadeFont: {instanceID: 0}
+  - brickPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
