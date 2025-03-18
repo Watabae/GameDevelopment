@@ -29,7 +29,6 @@ public class GameManager : MonoBehaviour
         scoreStyle.alignment = TextAnchor.MiddleCenter;
 
         livesTextStyle = new GUIStyle(scoreStyle);
-        livesTextStyle.fontSize = 24;
 
         gameOverStyle = new GUIStyle(scoreStyle);
         gameOverStyle.fontSize = 72;
@@ -118,11 +117,11 @@ public class GameManager : MonoBehaviour
     void OnGUI()
     {
         // Desenha o score
-        Rect scoreRect = new Rect(Screen.width / 2 + 275, 50, 200, 100);
+        Rect scoreRect = new Rect(Screen.width / 2 + 260, 450, 200, 100);
         GUI.Label(scoreRect, "SCORE: " + PlayerScore, scoreStyle);
 
         // Desenha o texto "LIVES:" acima dos ícones de vida
-        Rect livesTextRect = new Rect(800, 370, 130, 30);
+        Rect livesTextRect = new Rect(75, 450, 130, 30);
         GUI.Label(livesTextRect, "LIVES:", livesTextStyle);
 
         // Desenha os ícones de vida
@@ -145,8 +144,8 @@ public class GameManager : MonoBehaviour
             Debug.LogError("Life sprite is not assigned!");
             return;
         }
-        float lifeX = 800;
-        float lifeY = 400;
+        float lifeX = 83;
+        float lifeY = 500;
         float lifeSpacing = 10;
         float spriteSize = 30;
         for (int i = 0; i < PlayerLives; i++)
