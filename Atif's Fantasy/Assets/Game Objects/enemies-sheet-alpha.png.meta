@@ -1,0 +1,5666 @@
+fileFormatVersion: 2
+guid: fc822a2f05e8c7a46a85d2e95d542d98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5369832276515989115
+    second: enemies-sheet-alpha_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a921410a758a40800000000000000
+      internalID: 5369832276515989115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617e8cd74a49ef42a2bcb8498d79697
+      internalID: -102033655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a57117a66791e47bc291907f9bb2a3
+      internalID: -632376792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4582361d7536c4aa4aca36ad646a3e
+      internalID: -822285074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49503faa23bf0342b8cf5cc9c276aea
+      internalID: 1403178776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf769d65b0b7440b193cc488eea092
+      internalID: 1482983804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894a0432a16f424f927273c3efcfa91
+      internalID: -1389266297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5938372bd57c0e4f8b8e93b2f2fbaa8
+      internalID: -1832526394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d8a470236a12149b98b242f351b878
+      internalID: 1115609141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e1401f794fa644aa2663512f3fa8c
+      internalID: -250532926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c2225014c7704c869b5f3c8a6e560
+      internalID: 998840198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 502
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b20a37b86c4b48af333eb2b4eac39
+      internalID: 1270388228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0beb7d2d2ac41b4eb9e32e6010e3fbf
+      internalID: 1760069801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89f72b5e08cdb488a3cbf7f2b9835f
+      internalID: 1943578937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea1df0321b03347bec846713fb6546
+      internalID: -1939583658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a70e245da03e842880bb77336bceb7
+      internalID: -1199826212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd34da400a1044787a8287605511a5
+      internalID: 1259210294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d00231b88ba54498b74052174edd00
+      internalID: -931572124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7392032b30b049aff2d368743f605
+      internalID: 357582719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643e204f375ac444904e5738ce66faa
+      internalID: 1172621145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14163e83785687248ba396525acad42e
+      internalID: -135932521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d76f7b10cccaaf428831c59db8449de
+      internalID: 353080558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed15d7e5ba7e64ea8ff12fe0e5dcbb
+      internalID: 358620640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 476
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3099492acb197a4bba512cc901e69e0
+      internalID: 791387410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb0c4628da788843a5df02c4e496515
+      internalID: 1308424675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7eda56490f6049b2f932586165d5f
+      internalID: -1812976339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9d8497bc343345ad595a50ed5e5f0
+      internalID: 1343470460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ec9e1b0af4a54ca8a46053200ddc8
+      internalID: -1952686716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e315655a4111244ca9d2d782740dec0
+      internalID: -199736423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbd7cc3e65ac6043975861392b08a27
+      internalID: 1382725682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a3dbd379d9e24dab3260c4a5b5f09
+      internalID: 1471728286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95af2f8cfb73e947b95ed3cd73daf40
+      internalID: -1821953543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f17a44cfa9894c9a04d9616afeb5f
+      internalID: 1871145743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ae3a18cf899f4c8e76aa393c7b6eb
+      internalID: 1792488641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04790b0efeea74c94ba273002e4a87
+      internalID: 122891573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf013c41b27414480665c07ff60112
+      internalID: -263367968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0ee9fe9e8f6f949b4e2842dfa75d22
+      internalID: 2119340936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c441d9b4da8264cad38c0a36679b07
+      internalID: 670348080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9991dcf237054c8cfee103b63c021
+      internalID: -1989887310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c33d2cfa6275241a353a40a0fe1a33
+      internalID: -1103956267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b712df76577e34b826457ed6c66eab
+      internalID: 1167919647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb694776e945214fa97acfaf6db45c4
+      internalID: -952636988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ebd13b7fc8f941b88502a7b0a637f
+      internalID: -1074195656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8bf4a1b0bd4b0408bfe3f7cbe963df
+      internalID: -1222040803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e625af68cdf6346b0232598ea97e3e
+      internalID: -448222911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d8bc2e573f5ab4bb3f7135ebbac83f
+      internalID: 1219253441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc454a7ff0c343d4b92eabfb6892f4eb
+      internalID: -2045389927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 424
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7783ace7481948a4c4958e8ba209a
+      internalID: -444702766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c867fc2c0fe14e83a96e0a3c468bf
+      internalID: -705715508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8953cafb5c08e4a911870c5dbe50cf
+      internalID: -299101988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b4c4a626d5be40922b06e259c5e59
+      internalID: 506010514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198ef431a31acb469ecb07fea6d88be
+      internalID: -460177585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2326aa531b4e049aeaba6bc5866b75
+      internalID: -52250382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6944b5d6dcab624498eab306b954d3b
+      internalID: 760719686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9558510325edcf14896ab7074a9357aa
+      internalID: 461313779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2055f8423dd6dfc429c37bd0cbba6573
+      internalID: 267352007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ac17d3e37d0b439b003d79ef8f5b9
+      internalID: -462046554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68ef84874f93e40920a04bebb14ad1
+      internalID: -841906925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05aee70ae3e2641bb52311f61cc422
+      internalID: 2073772432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 398
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991f69945904aa40b655e6be342cf6d
+      internalID: -1023655869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae54a5826edb3f4181377adb92451da
+      internalID: -61244153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122eaf1ad2b5e7e42a11bde7f464bb47
+      internalID: 1886279797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f590351d48f71419c56e5258fb9592
+      internalID: -1441334542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5409031ca50b2047a10d47e3ef62c5e
+      internalID: -1930764909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1f12f9c9cb2d4094bcbdcbb0080dc
+      internalID: 1080931671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2481e5ce82d32498162465104dec60
+      internalID: -1407081252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48faa0c6a9d10f40be84bf284c3e571
+      internalID: -551643620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7dcb69b193c546935e2f5e3ad7716
+      internalID: 1320476362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503aba4fd03fc24d93bc958f4989123
+      internalID: -1104773858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c294808a57bb5c4fa17ae5736255d7a
+      internalID: -139916614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5393c3e371d747874978d812b451d
+      internalID: -1956078100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_71
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 372
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2439c7fc3f8447884fd5980610ba8
+      internalID: 1053610191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39592eefaaf86b45a353dff304ff4a5
+      internalID: 755982262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2edb57b2a09449a933cda58f58d6f
+      internalID: 997173468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b274c25a6fa393c4c966e0749b3f8a9e
+      internalID: 987023356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9738938759b3df45b48b05fc94b512e
+      internalID: -1329683419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e035139732d0408d04d7978771e84
+      internalID: 1176337087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2dfd4663b4d1d44b70287fd9ca0481
+      internalID: 143127965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473a1f78d4697e45ae5ce7d612824cd
+      internalID: -1206208924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d6fd739d94064cbc7efab2d1b7ac6
+      internalID: 311632068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e497bdcc859ac240926e13560c8cde3
+      internalID: 510851203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32256a5445ff54fa39aa2803aeba51
+      internalID: 373035506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ff8dd09052704db1f15f521d47fb0
+      internalID: 772990024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f8684813e32342b70c01e9c517389
+      internalID: -800422040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5cafa4ffaaa74bbbf4d4aa3fe8b61
+      internalID: -823477251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_85
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779af8b5ee51bc4d83d6c2c9628fb49
+      internalID: 217647004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651c3911dce27a40836f462faff0d2b
+      internalID: -1748057417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_87
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd692800e2e0884ab34799707fb3201
+      internalID: -1714358419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe9d97b44a2f04a8fcec9e46731953
+      internalID: 1606658503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8480ec1976c6f654ba7fa294540019e3
+      internalID: -495202355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74015e8d991524c4f81691a49f128be1
+      internalID: 606857320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_91
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809396ac994b8c478f992b80ee40651
+      internalID: -1517392348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb536480c771fc458b0a873e938452d
+      internalID: -360467601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ad0311ff5dd343a546103ebff5c6f
+      internalID: 1136089840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_94
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab2a043846c244eb214f5d4d58dba7
+      internalID: 974271192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_95
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67583aad18869a447a6cf3a60860e055
+      internalID: -1377609276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7027bbdf870689240b6d200069c3ab80
+      internalID: -1638856163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a263b966cef988409f12e30d0e45f41
+      internalID: -1348836108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb67dc9fc49ad4cbf7a014654138d6
+      internalID: -1165556760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780b523d85bc7a4eb01b8aa13ab3c0b
+      internalID: -403881776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_100
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d1c4fef3a9064ebd64c5cd36c52a4
+      internalID: -1143331044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_101
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69cdec5472ec14a8eded26cfb992fd
+      internalID: -302122017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_102
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57dbdfc84fcf7d4f8cd08046dff2d5a
+      internalID: -1616757822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_103
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef72e30bb563174d825bac5614e9e2b
+      internalID: 1373404315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3c524b05a49e40a2004ec69ebbc15
+      internalID: 1889504267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_105
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5457d87c75b4045b244af679af72dd
+      internalID: -1303190946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_106
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ee7a6feb86564e8126d4835021fcd
+      internalID: -1189895075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_107
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 294
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101cffb351d8d2418e4a7ee2a56388c
+      internalID: -967463886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657084d6f0644ae4b9773011eb0f2090
+      internalID: -1706129936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_109
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b9bd6c904f20d4da977365b7b1b09a
+      internalID: -995894064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_110
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177789735ef75d4bbf5436673e124b4
+      internalID: -1201169783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b8fae157b66047b997876abc4122d
+      internalID: -171781623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a304a6bd213f947b7a823a69738537
+      internalID: -1847233122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6911f6e4330b74aae19af365c7cb7a
+      internalID: 1228734787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47930e9e613799e44856b719286cc861
+      internalID: -996335372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_115
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d6013c08151546bb0ab0e2f972eb0
+      internalID: -644298574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a31f24ea63c449a1d72eeaa50238a
+      internalID: 1753012842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_117
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2b8e9b5592e843814433fafa1f418
+      internalID: -1800530632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f817e7f2d9f946b34831c81e943a1
+      internalID: -2133484021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_119
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e5df75a88b7349b2cfa605a4020b6
+      internalID: -70139074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988fb436f1b9cf8489e56ae5558c947b
+      internalID: -835090201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459588e2e8d3c54698f49b71b6fda35
+      internalID: 935829569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_122
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571485bd243df042a727c45ebecd7f4
+      internalID: -1176318768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_123
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64578145e39362a4a92f53185fbeb7bc
+      internalID: -339613289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ca3a42383bac40bef9e92f5023488
+      internalID: 1687705568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_125
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdceea5328f37b4f987e0a74bc6afea
+      internalID: -389562642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_126
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed45e723ce94c854ebaf269e5e3849bd
+      internalID: 44426889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_127
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6731902f335e6c04f83db132a7fc9adf
+      internalID: -122154156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e8913cd6133247b6185500ea4c2a1
+      internalID: 1934328508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_129
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391bc492dd462114392ef0a7b0a04e7f
+      internalID: 455030646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_130
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ad4abbdc07734db4977d446464f3a
+      internalID: 590539985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_131
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc549029032b6cb42bef404a3687d6e9
+      internalID: 1955776296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789c453e460f384492334a508750fef
+      internalID: 275721257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_133
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e27828542c7a46b7c887751f34950
+      internalID: -293662773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_134
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3166ceac16d8547aa7cbefb5c37148
+      internalID: 1643127443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_135
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63275cb7dc7ef940b41ebadea479201
+      internalID: -1046880282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f613a52bbebf4bb5232feff031cdc
+      internalID: -1633590231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_137
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890271a3f10c16b4094de57cafb4c169
+      internalID: -885150443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df064888d9eaa4a8b45e91f690a378
+      internalID: 687212679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_139
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc745d90f7b72041a799e2c6748d40d
+      internalID: -1768890015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_140
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f371204055c4e4fa37d75f76c68961
+      internalID: -435340568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_141
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d679a1e2de3143aa556e81a446f13
+      internalID: 1209881220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_142
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1ff0ad6c645941888da998d341e0d
+      internalID: 234666662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_143
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 216
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee21e07bb2f274a9a75c9ebe5bdfdb
+      internalID: -579865407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5540163dc14734fbe98d4cf7cd04e4
+      internalID: 2087125479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_145
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c791ea7faeff42b17a975ab54dc84
+      internalID: -1854965607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_146
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bba629eeabe2a4d8622458711d3d3b
+      internalID: 465927266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_147
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb5f45c91d74346bbfee509b2018c5
+      internalID: -1772260592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c07b7a5bfe6434fb840e42efa704a5
+      internalID: 1200358709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_149
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea87b91ac7afd4ab75c46ef34efd54
+      internalID: -622444858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_150
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506291d9b97e3648b751aa910c6db26
+      internalID: 632440724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_151
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33254642c5a6d4a97178008cbee002
+      internalID: -106377396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_152
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452db3a57f722d4468d447600de402b0
+      internalID: -1804099187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_153
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0824566abc724a8c0a4ec64f9952f
+      internalID: 1648981712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_154
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40471571533f236468297b46c4f6d355
+      internalID: -393201085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_155
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aafb06a4fc35c84b92dbf13ce491881
+      internalID: -1363250843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b207fbb53fb947849a8b114116699
+      internalID: -87939995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_157
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a4f034e1db56649a62a125630d7b49
+      internalID: 399618350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_158
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87d41ca3ee41e4c9a44c5c35d67616
+      internalID: 103248937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_159
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb750cc3be5e2b042be0a4c377da785a
+      internalID: 350019913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_160
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac95ed852ab7e8848ad86c33a040e70c
+      internalID: 345265954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_161
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad8d3048981e5944a806fc9919a93dc
+      internalID: 275642108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_162
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302b9698048296942957c7a3de59f002
+      internalID: 251373304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_163
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ae4f12a4795543b1f97d01c54d08e
+      internalID: 1417286374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05cfe0bc3aba5448aef7c87ec618b3
+      internalID: -1369825183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_165
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7eb1dbf92137e43aa61c8d0ac78661
+      internalID: 707949181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_166
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf5f7e26910f24ca4a57882f7d573c
+      internalID: 1611075060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_167
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9379c15e861fa4b96cb628e01a93ac
+      internalID: -619740693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e14e3789ccc3f84c968b145d4d90f92
+      internalID: 1666400054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_169
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4301c2312510042a91c2e7601d661e
+      internalID: 349581578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_170
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d53c9eb49a9dd4483371d520b1aaa0
+      internalID: 1496317082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_171
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10112db709d0f12408f42c575af02041
+      internalID: -1765378048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72717acb9f24dd47908bc4d276eb7ad
+      internalID: 431193860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_173
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ccd8df99c202a419b80fdfc92378f1
+      internalID: 1991586643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_174
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8541a3e206e44ca351248bf1831e3
+      internalID: -1544473524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_175
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7424ebc560ce8041b9381921763d6c5
+      internalID: -1155436056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_176
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e590b242b1628274797a9a697a4ba2bf
+      internalID: -1910386447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_177
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd9e120aaa11d42b5a183eb8f67511
+      internalID: -1738699716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_178
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e4715b38723640b7a6fbc9fc1dcdb
+      internalID: -1837488995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_179
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa4d3368fc1a724cbfcf453d9eb4ece
+      internalID: 871209108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31254e2d6e915f409a0fcceec3bb311
+      internalID: -945752803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_181
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a6aef35e919984883d48a5b26f2a57
+      internalID: 596515899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_182
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70b6688800fb547a6ff1a591c2e64e
+      internalID: 1401170495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_183
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632571386fa06bd449028bfb59871370
+      internalID: -1735452775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_184
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe12714529a2ab4a8fc2eec353d5d2e
+      internalID: 1268542022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_185
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53165bfba0587474699d19d49147ed9b
+      internalID: 745249100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d185211ba0bf468dff8c14ce55643
+      internalID: 969178970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_187
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d1ed23d3863347880be68b45ae87e
+      internalID: 192092630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48c7ea608f1f5458aac108648a022d
+      internalID: -670407271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_189
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a7a716f770d04bbf1529ef0c48348
+      internalID: 1987449711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_190
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddae1553df6fc66418b74ee18c2f5747
+      internalID: -1136247495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_191
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 112
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6235d9e0622a7439993a12635b9f16
+      internalID: -575561176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f458b3ae6c7d3c45a689a656ff4c1c0
+      internalID: -1562798922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_193
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147bbf88ea9db04d96e7cf304788f05
+      internalID: -2108126094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_194
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62abd6d93f3c98c4e893f4e19cbd3843
+      internalID: -1201836734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_195
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26700f689d993a49aace21027f1dd72
+      internalID: -460210963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_196
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a0614d01a8a148884c850746c4c83
+      internalID: 1658826509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_197
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88583f6e0745b0d498a1636b1807b7e4
+      internalID: -1709521028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_198
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790922707ac0dd45ae9b7eec1545e87
+      internalID: 924920300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_199
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38526eebdaeaf4894e5f7709bda985
+      internalID: -427195502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_200
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33a94b4806b2244b7c6d81304079cd
+      internalID: 92366068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_201
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e040030131b05747a41f5468216cf3c
+      internalID: 1933209161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_202
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64e9f8ec15d65478f9fa5566f500ed
+      internalID: -1041605856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_203
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 86
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d343f2365274e41a5ce106959fcc9e
+      internalID: -319955858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9442b76eafd1dd4cb9b44ddc046a31c
+      internalID: 902443068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_205
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866658d0d5dff747b395813b8bba5da
+      internalID: 1179707935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_206
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427dba7102dac2141bcbcb93156ae1a7
+      internalID: 278425856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_207
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73309722a1f8e09449c50ba902d501d0
+      internalID: 870033621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_208
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea0e4013ad44a4ba3064bb8bd6598e
+      internalID: 379825164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_209
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8662b9c5e16cd445ae60e72b9449ded
+      internalID: 1436520093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_210
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6defbe260d0b25458208fd8e2e0ca22
+      internalID: -1742394497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_211
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a05e2b0c500045a31c8fd35528080
+      internalID: -446499497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_212
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0588064ef1573ae48b55d100011502e6
+      internalID: -668998865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_213
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b584a2b9b0dc4e955f980b69d39ea
+      internalID: 2130171197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_214
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85a3f3bb2e7f84eae03833192e7a1c
+      internalID: -1838886624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_215
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61e918f6641a9b44a05d4f028aeb140
+      internalID: -104097437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2235038ff19f1514c8557a8cafc36ffa
+      internalID: -1135867405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_217
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9891b4c32d730b4597562f94bc89e3e
+      internalID: -2069059140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_218
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978f6afc0040da4db46db59ea28f776
+      internalID: -1167043387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_219
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d20671204990d4f882671fac287dd9
+      internalID: -84194084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_220
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9566cf0fecaab9b45ab304d9779b0484
+      internalID: 1396837909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_221
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73169325936b5934da77fe72a59c8f8c
+      internalID: 481914849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5866ca2373913468f4b04d10b48c01
+      internalID: 1942690795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_223
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baea154900aa01c4785f5427f011af73
+      internalID: -272013797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8993f3f28a86044b4154aa810407f2
+      internalID: 149282714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_225
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb108b9779edc14bbca3d6fed53dc52
+      internalID: 1503855484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_226
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05486b495557841925bf77c72bbca4
+      internalID: 870330409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_227
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673708c90263cc4e998f697ea718666
+      internalID: -623072625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16beec6fe6116488938ca384d650d1
+      internalID: -948644827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_229
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a76213e2bbc5774ab5fd42e824862a5
+      internalID: 1251696701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_230
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7510cebf48a8a145a6eca73d5834131
+      internalID: -1389085113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_231
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76024a62f135c1a40a9178b202d8668b
+      internalID: 1049791556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_232
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadc59f1992cbf40b1a17e428a18796
+      internalID: 1203535162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_233
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b10cde418f789f45ae2e3ef3263cf4a
+      internalID: 946436446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_234
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097f3544911d434f9b5f2461e98839f
+      internalID: -1139287490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_235
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e19a91f01640f488d3ee83bd8c6e8c
+      internalID: 1789608233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_236
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45654afa639aef24db87c93646c9d68d
+      internalID: -691425809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_237
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896cd9b386de0f4b914e66590bd7fc6
+      internalID: 1302768707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690009eac884ac429f261178ebfcb54
+      internalID: 936607788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-sheet-alpha_239
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e562d0935865408aa55abc60c56b5
+      internalID: 1469811536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3f73753e69c215498918c75895d28ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemies-sheet-alpha_0: 5369832276515989115
+      enemies-sheet-alpha_1: -102033655
+      enemies-sheet-alpha_10: 998840198
+      enemies-sheet-alpha_100: -1143331044
+      enemies-sheet-alpha_101: -302122017
+      enemies-sheet-alpha_102: -1616757822
+      enemies-sheet-alpha_103: 1373404315
+      enemies-sheet-alpha_104: 1889504267
+      enemies-sheet-alpha_105: -1303190946
+      enemies-sheet-alpha_106: -1189895075
+      enemies-sheet-alpha_107: -967463886
+      enemies-sheet-alpha_108: -1706129936
+      enemies-sheet-alpha_109: -995894064
+      enemies-sheet-alpha_11: 1270388228
+      enemies-sheet-alpha_110: -1201169783
+      enemies-sheet-alpha_111: -171781623
+      enemies-sheet-alpha_112: -1847233122
+      enemies-sheet-alpha_113: 1228734787
+      enemies-sheet-alpha_114: -996335372
+      enemies-sheet-alpha_115: -644298574
+      enemies-sheet-alpha_116: 1753012842
+      enemies-sheet-alpha_117: -1800530632
+      enemies-sheet-alpha_118: -2133484021
+      enemies-sheet-alpha_119: -70139074
+      enemies-sheet-alpha_12: 1760069801
+      enemies-sheet-alpha_120: -835090201
+      enemies-sheet-alpha_121: 935829569
+      enemies-sheet-alpha_122: -1176318768
+      enemies-sheet-alpha_123: -339613289
+      enemies-sheet-alpha_124: 1687705568
+      enemies-sheet-alpha_125: -389562642
+      enemies-sheet-alpha_126: 44426889
+      enemies-sheet-alpha_127: -122154156
+      enemies-sheet-alpha_128: 1934328508
+      enemies-sheet-alpha_129: 455030646
+      enemies-sheet-alpha_13: 1943578937
+      enemies-sheet-alpha_130: 590539985
+      enemies-sheet-alpha_131: 1955776296
+      enemies-sheet-alpha_132: 275721257
+      enemies-sheet-alpha_133: -293662773
+      enemies-sheet-alpha_134: 1643127443
+      enemies-sheet-alpha_135: -1046880282
+      enemies-sheet-alpha_136: -1633590231
+      enemies-sheet-alpha_137: -885150443
+      enemies-sheet-alpha_138: 687212679
+      enemies-sheet-alpha_139: -1768890015
+      enemies-sheet-alpha_14: -1939583658
+      enemies-sheet-alpha_140: -435340568
+      enemies-sheet-alpha_141: 1209881220
+      enemies-sheet-alpha_142: 234666662
+      enemies-sheet-alpha_143: -579865407
+      enemies-sheet-alpha_144: 2087125479
+      enemies-sheet-alpha_145: -1854965607
+      enemies-sheet-alpha_146: 465927266
+      enemies-sheet-alpha_147: -1772260592
+      enemies-sheet-alpha_148: 1200358709
+      enemies-sheet-alpha_149: -622444858
+      enemies-sheet-alpha_15: -1199826212
+      enemies-sheet-alpha_150: 632440724
+      enemies-sheet-alpha_151: -106377396
+      enemies-sheet-alpha_152: -1804099187
+      enemies-sheet-alpha_153: 1648981712
+      enemies-sheet-alpha_154: -393201085
+      enemies-sheet-alpha_155: -1363250843
+      enemies-sheet-alpha_156: -87939995
+      enemies-sheet-alpha_157: 399618350
+      enemies-sheet-alpha_158: 103248937
+      enemies-sheet-alpha_159: 350019913
+      enemies-sheet-alpha_16: 1259210294
+      enemies-sheet-alpha_160: 345265954
+      enemies-sheet-alpha_161: 275642108
+      enemies-sheet-alpha_162: 251373304
+      enemies-sheet-alpha_163: 1417286374
+      enemies-sheet-alpha_164: -1369825183
+      enemies-sheet-alpha_165: 707949181
+      enemies-sheet-alpha_166: 1611075060
+      enemies-sheet-alpha_167: -619740693
+      enemies-sheet-alpha_168: 1666400054
+      enemies-sheet-alpha_169: 349581578
+      enemies-sheet-alpha_17: -931572124
+      enemies-sheet-alpha_170: 1496317082
+      enemies-sheet-alpha_171: -1765378048
+      enemies-sheet-alpha_172: 431193860
+      enemies-sheet-alpha_173: 1991586643
+      enemies-sheet-alpha_174: -1544473524
+      enemies-sheet-alpha_175: -1155436056
+      enemies-sheet-alpha_176: -1910386447
+      enemies-sheet-alpha_177: -1738699716
+      enemies-sheet-alpha_178: -1837488995
+      enemies-sheet-alpha_179: 871209108
+      enemies-sheet-alpha_18: 357582719
+      enemies-sheet-alpha_180: -945752803
+      enemies-sheet-alpha_181: 596515899
+      enemies-sheet-alpha_182: 1401170495
+      enemies-sheet-alpha_183: -1735452775
+      enemies-sheet-alpha_184: 1268542022
+      enemies-sheet-alpha_185: 745249100
+      enemies-sheet-alpha_186: 969178970
+      enemies-sheet-alpha_187: 192092630
+      enemies-sheet-alpha_188: -670407271
+      enemies-sheet-alpha_189: 1987449711
+      enemies-sheet-alpha_19: 1172621145
+      enemies-sheet-alpha_190: -1136247495
+      enemies-sheet-alpha_191: -575561176
+      enemies-sheet-alpha_192: -1562798922
+      enemies-sheet-alpha_193: -2108126094
+      enemies-sheet-alpha_194: -1201836734
+      enemies-sheet-alpha_195: -460210963
+      enemies-sheet-alpha_196: 1658826509
+      enemies-sheet-alpha_197: -1709521028
+      enemies-sheet-alpha_198: 924920300
+      enemies-sheet-alpha_199: -427195502
+      enemies-sheet-alpha_2: -632376792
+      enemies-sheet-alpha_20: -135932521
+      enemies-sheet-alpha_200: 92366068
+      enemies-sheet-alpha_201: 1933209161
+      enemies-sheet-alpha_202: -1041605856
+      enemies-sheet-alpha_203: -319955858
+      enemies-sheet-alpha_204: 902443068
+      enemies-sheet-alpha_205: 1179707935
+      enemies-sheet-alpha_206: 278425856
+      enemies-sheet-alpha_207: 870033621
+      enemies-sheet-alpha_208: 379825164
+      enemies-sheet-alpha_209: 1436520093
+      enemies-sheet-alpha_21: 353080558
+      enemies-sheet-alpha_210: -1742394497
+      enemies-sheet-alpha_211: -446499497
+      enemies-sheet-alpha_212: -668998865
+      enemies-sheet-alpha_213: 2130171197
+      enemies-sheet-alpha_214: -1838886624
+      enemies-sheet-alpha_215: -104097437
+      enemies-sheet-alpha_216: -1135867405
+      enemies-sheet-alpha_217: -2069059140
+      enemies-sheet-alpha_218: -1167043387
+      enemies-sheet-alpha_219: -84194084
+      enemies-sheet-alpha_22: 358620640
+      enemies-sheet-alpha_220: 1396837909
+      enemies-sheet-alpha_221: 481914849
+      enemies-sheet-alpha_222: 1942690795
+      enemies-sheet-alpha_223: -272013797
+      enemies-sheet-alpha_224: 149282714
+      enemies-sheet-alpha_225: 1503855484
+      enemies-sheet-alpha_226: 870330409
+      enemies-sheet-alpha_227: -623072625
+      enemies-sheet-alpha_228: -948644827
+      enemies-sheet-alpha_229: 1251696701
+      enemies-sheet-alpha_23: 791387410
+      enemies-sheet-alpha_230: -1389085113
+      enemies-sheet-alpha_231: 1049791556
+      enemies-sheet-alpha_232: 1203535162
+      enemies-sheet-alpha_233: 946436446
+      enemies-sheet-alpha_234: -1139287490
+      enemies-sheet-alpha_235: 1789608233
+      enemies-sheet-alpha_236: -691425809
+      enemies-sheet-alpha_237: 1302768707
+      enemies-sheet-alpha_238: 936607788
+      enemies-sheet-alpha_239: 1469811536
+      enemies-sheet-alpha_24: 1308424675
+      enemies-sheet-alpha_25: -1812976339
+      enemies-sheet-alpha_26: 1343470460
+      enemies-sheet-alpha_27: -1952686716
+      enemies-sheet-alpha_28: -199736423
+      enemies-sheet-alpha_29: 1382725682
+      enemies-sheet-alpha_3: -822285074
+      enemies-sheet-alpha_30: 1471728286
+      enemies-sheet-alpha_31: -1821953543
+      enemies-sheet-alpha_32: 1871145743
+      enemies-sheet-alpha_33: 1792488641
+      enemies-sheet-alpha_34: 122891573
+      enemies-sheet-alpha_35: -263367968
+      enemies-sheet-alpha_36: 2119340936
+      enemies-sheet-alpha_37: 670348080
+      enemies-sheet-alpha_38: -1989887310
+      enemies-sheet-alpha_39: -1103956267
+      enemies-sheet-alpha_4: 1403178776
+      enemies-sheet-alpha_40: 1167919647
+      enemies-sheet-alpha_41: -952636988
+      enemies-sheet-alpha_42: -1074195656
+      enemies-sheet-alpha_43: -1222040803
+      enemies-sheet-alpha_44: -448222911
+      enemies-sheet-alpha_45: 1219253441
+      enemies-sheet-alpha_46: -2045389927
+      enemies-sheet-alpha_47: -444702766
+      enemies-sheet-alpha_48: -705715508
+      enemies-sheet-alpha_49: -299101988
+      enemies-sheet-alpha_5: 1482983804
+      enemies-sheet-alpha_50: 506010514
+      enemies-sheet-alpha_51: -460177585
+      enemies-sheet-alpha_52: -52250382
+      enemies-sheet-alpha_53: 760719686
+      enemies-sheet-alpha_54: 461313779
+      enemies-sheet-alpha_55: 267352007
+      enemies-sheet-alpha_56: -462046554
+      enemies-sheet-alpha_57: -841906925
+      enemies-sheet-alpha_58: 2073772432
+      enemies-sheet-alpha_59: -1023655869
+      enemies-sheet-alpha_6: -1389266297
+      enemies-sheet-alpha_60: -61244153
+      enemies-sheet-alpha_61: 1886279797
+      enemies-sheet-alpha_62: -1441334542
+      enemies-sheet-alpha_63: -1930764909
+      enemies-sheet-alpha_64: 1080931671
+      enemies-sheet-alpha_65: -1407081252
+      enemies-sheet-alpha_66: -551643620
+      enemies-sheet-alpha_67: 1320476362
+      enemies-sheet-alpha_68: -1104773858
+      enemies-sheet-alpha_69: -139916614
+      enemies-sheet-alpha_7: -1832526394
+      enemies-sheet-alpha_70: -1956078100
+      enemies-sheet-alpha_71: 1053610191
+      enemies-sheet-alpha_72: 755982262
+      enemies-sheet-alpha_73: 997173468
+      enemies-sheet-alpha_74: 987023356
+      enemies-sheet-alpha_75: -1329683419
+      enemies-sheet-alpha_76: 1176337087
+      enemies-sheet-alpha_77: 143127965
+      enemies-sheet-alpha_78: -1206208924
+      enemies-sheet-alpha_79: 311632068
+      enemies-sheet-alpha_8: 1115609141
+      enemies-sheet-alpha_80: 510851203
+      enemies-sheet-alpha_81: 373035506
+      enemies-sheet-alpha_82: 772990024
+      enemies-sheet-alpha_83: -800422040
+      enemies-sheet-alpha_84: -823477251
+      enemies-sheet-alpha_85: 217647004
+      enemies-sheet-alpha_86: -1748057417
+      enemies-sheet-alpha_87: -1714358419
+      enemies-sheet-alpha_88: 1606658503
+      enemies-sheet-alpha_89: -495202355
+      enemies-sheet-alpha_9: -250532926
+      enemies-sheet-alpha_90: 606857320
+      enemies-sheet-alpha_91: -1517392348
+      enemies-sheet-alpha_92: -360467601
+      enemies-sheet-alpha_93: 1136089840
+      enemies-sheet-alpha_94: 974271192
+      enemies-sheet-alpha_95: -1377609276
+      enemies-sheet-alpha_96: -1638856163
+      enemies-sheet-alpha_97: -1348836108
+      enemies-sheet-alpha_98: -1165556760
+      enemies-sheet-alpha_99: -403881776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
